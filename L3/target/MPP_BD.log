@@ -1,0 +1,182 @@
+13 Mar 2025 19:01:07,543 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc=sqlite:C:UBBSem4MPPcars.db} 
+13 Mar 2025 19:01:07,551 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:01:07,552 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:01:07,553 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+13 Mar 2025 19:01:07,553 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:01:07,554 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:01:07,556 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+13 Mar 2025 19:01:07,558 TRACE JdbcUtils 55 getConnection - Exit
+13 Mar 2025 19:01:07,559 ERROR CarsDBRepository 26 <init> - Eroare la conectarea la baza de date.
+13 Mar 2025 19:01:07,561 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:01:07,561 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:01:07,561 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+13 Mar 2025 19:01:07,562 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:01:07,562 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:01:07,563 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+13 Mar 2025 19:01:07,563 TRACE JdbcUtils 55 getConnection - Exit
+13 Mar 2025 19:02:07,632 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc=sqlite:C:UBBSem4 MPPcars.db} 
+13 Mar 2025 19:02:07,637 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:02:07,637 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:02:07,638 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+13 Mar 2025 19:02:07,639 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:02:07,639 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:02:07,641 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+13 Mar 2025 19:02:07,641 TRACE JdbcUtils 55 getConnection - Exit
+13 Mar 2025 19:02:37,775 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc=sqlite:C:UBBSem4 MPPcars.db} 
+13 Mar 2025 19:09:59,554 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc=sqlite:C:UBBSem4MPPLab	eme-lab-LucaciGeorgeL3cars.db} 
+13 Mar 2025 19:10:21,845 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc=sqlite:C:UBBSem4MPPLab	eme-lab-LucaciGeorgeL3cars.db} 
+13 Mar 2025 19:10:21,848 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:10:21,850 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:10:21,850 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+13 Mar 2025 19:10:21,850 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:10:21,851 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:10:21,852 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+13 Mar 2025 19:10:21,853 TRACE JdbcUtils 55 getConnection - Exit
+13 Mar 2025 19:10:41,325 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc=sqlite:C:UBBSem4MPPLab	eme-lab-LucaciGeorgeL3cars.db} 
+13 Mar 2025 19:10:41,329 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:10:41,330 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:10:41,330 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+13 Mar 2025 19:10:41,331 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:10:41,331 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:10:41,332 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+13 Mar 2025 19:10:41,333 TRACE JdbcUtils 55 getConnection - Exit
+13 Mar 2025 19:10:54,944 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc=sqlite:C:UBBSem4MPPLab	eme-lab-LucaciGeorgeL3cars.db} 
+13 Mar 2025 19:10:54,950 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:10:54,951 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:10:54,951 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+13 Mar 2025 19:10:54,952 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:10:54,952 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:10:54,954 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+13 Mar 2025 19:10:54,955 TRACE JdbcUtils 55 getConnection - Exit
+13 Mar 2025 19:13:27,263 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc=sqlite:C:UBBSem4MPPLab	eme-lab-LucaciGeorgeL3cars.db} 
+13 Mar 2025 19:13:27,267 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:13:27,268 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:13:27,268 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+13 Mar 2025 19:13:27,269 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:13:27,269 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:13:27,270 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+13 Mar 2025 19:13:27,272 TRACE JdbcUtils 55 getConnection - Exit
+13 Mar 2025 19:13:56,399 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc=sqlite:C:UBBSem4MPPcars.db} 
+13 Mar 2025 19:13:56,404 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:13:56,405 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:13:56,405 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+13 Mar 2025 19:13:56,405 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:13:56,407 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:13:56,408 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+13 Mar 2025 19:13:56,409 TRACE JdbcUtils 55 getConnection - Exit
+13 Mar 2025 19:14:58,934 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UBBSem4MPPcars.db} 
+13 Mar 2025 19:14:58,940 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:14:58,941 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:14:58,941 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:UBBSem4MPPcars.db
+13 Mar 2025 19:14:58,941 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:14:58,942 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:14:59,119 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3232a28a)
+13 Mar 2025 19:15:15,789 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UBBSem4MPPcars.db} 
+13 Mar 2025 19:15:15,793 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:15:15,793 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:15:15,794 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:UBBSem4MPPcars.db
+13 Mar 2025 19:15:15,794 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:15:15,794 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:15:15,958 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@f736069)
+13 Mar 2025 19:15:31,524 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db} 
+13 Mar 2025 19:15:31,528 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:15:31,528 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:15:31,528 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db
+13 Mar 2025 19:15:31,528 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:15:31,529 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:15:31,707 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@f736069)
+13 Mar 2025 19:16:22,482 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db} 
+13 Mar 2025 19:16:22,487 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:16:22,488 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:16:22,488 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db
+13 Mar 2025 19:16:22,488 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:16:22,489 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:16:22,663 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@f736069)
+13 Mar 2025 19:27:17,886 INFO  CarsDBRepository 17 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db} 
+13 Mar 2025 19:27:17,891 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:27:17,891 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:27:17,892 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db
+13 Mar 2025 19:27:17,892 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:27:17,893 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:27:18,062 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3232a28a)
+13 Mar 2025 19:27:18,072 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:27:18,072 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3232a28a)
+13 Mar 2025 19:28:02,450 INFO  CarsDBRepository 17 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db} 
+13 Mar 2025 19:28:02,454 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:28:02,455 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:28:02,455 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db
+13 Mar 2025 19:28:02,456 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:28:02,456 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:28:02,623 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3232a28a)
+13 Mar 2025 19:28:02,632 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:28:02,633 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3232a28a)
+13 Mar 2025 19:28:46,723 INFO  CarsDBRepository 17 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db} 
+13 Mar 2025 19:28:46,727 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:28:46,728 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:28:46,728 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db
+13 Mar 2025 19:28:46,728 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:28:46,728 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:28:46,894 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@47faa49c)
+13 Mar 2025 19:32:35,296 INFO  CarsDBRepository 17 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db} 
+13 Mar 2025 19:32:35,301 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:32:35,301 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:32:35,302 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db
+13 Mar 2025 19:32:35,302 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:32:35,302 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:32:35,493 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@47faa49c)
+13 Mar 2025 19:32:35,507 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:32:35,507 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@47faa49c)
+13 Mar 2025 19:32:50,848 INFO  CarsDBRepository 17 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db} 
+13 Mar 2025 19:32:50,852 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:32:50,853 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:32:50,854 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db
+13 Mar 2025 19:32:50,854 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:32:50,854 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:32:51,025 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@47faa49c)
+13 Mar 2025 19:32:51,039 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:32:51,039 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@47faa49c)
+13 Mar 2025 19:33:14,738 INFO  CarsDBRepository 17 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db} 
+13 Mar 2025 19:33:14,742 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:33:14,743 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:33:14,743 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db
+13 Mar 2025 19:33:14,744 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:33:14,744 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:33:14,921 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d0f2471)
+13 Mar 2025 19:33:14,934 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:33:14,934 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d0f2471)
+13 Mar 2025 19:33:56,181 INFO  CarsDBRepository 17 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db} 
+13 Mar 2025 19:33:56,186 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:33:56,187 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:33:56,188 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db
+13 Mar 2025 19:33:56,188 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:33:56,188 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:33:56,363 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68dc098b)
+13 Mar 2025 19:33:56,378 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:33:56,379 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68dc098b)
+13 Mar 2025 19:34:20,555 INFO  CarsDBRepository 17 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db} 
+13 Mar 2025 19:34:20,560 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:34:20,562 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:34:20,562 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db
+13 Mar 2025 19:34:20,562 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:34:20,562 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:34:20,729 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@38ba6ce3)
+13 Mar 2025 19:34:20,744 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:34:20,746 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@38ba6ce3)
+13 Mar 2025 19:35:04,939 INFO  CarsDBRepository 17 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db} 
+13 Mar 2025 19:35:04,943 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:35:04,944 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:35:04,944 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db
+13 Mar 2025 19:35:04,944 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:35:04,945 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:35:05,124 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@47faa49c)
+13 Mar 2025 19:35:05,137 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:35:05,137 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@47faa49c)
+13 Mar 2025 19:35:13,689 INFO  CarsDBRepository 17 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db} 
+13 Mar 2025 19:35:13,694 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:35:13,694 TRACE JdbcUtils 23 getNewConnection - Enter
+13 Mar 2025 19:35:13,695 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/UBB/Sem4/MPP/cars.db
+13 Mar 2025 19:35:13,695 INFO  JdbcUtils 29 getNewConnection - user: null
+13 Mar 2025 19:35:13,697 INFO  JdbcUtils 30 getNewConnection - pass: null
+13 Mar 2025 19:35:13,932 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@47faa49c)
+13 Mar 2025 19:35:13,945 TRACE JdbcUtils 46 getConnection - Enter
+13 Mar 2025 19:35:13,946 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@47faa49c)
